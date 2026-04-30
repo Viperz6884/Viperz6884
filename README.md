@@ -25,3 +25,12 @@ Hi there, I'm Prietish Pathak! 👋<br>Blockchain Developer | Full-Stack Enginee
 [![](https://komarev.com/ghpvc/?username=Viperz6884&icon=0&color=0)](https://visitcount.itsvg.in)
 
 Repo:- https://github.com/Viperz6884/Whale-Protection-And-Routing
+
+---
+
+### Let's Connect 🤝:
+Feel free to reach out if you want to collaborate on exciting projects 💡 or discuss the latest trends in **AI** 🤖, **DevOps** ⚙️, or **web development** 🌐. Let’s make something amazing together! 🚀
+
+![GitHub GIF](githubgif.gif)
+
+---
